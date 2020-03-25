@@ -40,4 +40,4 @@ raas_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','raas_code
 raas_codelist.head(10)
 # -
 
-
+raas_codelist.info()
