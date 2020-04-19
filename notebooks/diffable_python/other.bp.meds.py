@@ -31,7 +31,7 @@ import pandas as pd
 
 # +
 sql = '''WITH bnf_codes AS (
-  SELECT bnf_code FROM hscic.presentation WHERE 
+  SELECT DISTINCT bnf_code FROM measures.dmd_objs_with_form_route WHERE 
 (bnf_code LIKE '0206020A0%' OR #  Amlodipine
 bnf_code LIKE '0206020C0%' OR #  Diltiazem Hydrochloride
 bnf_code LIKE '0206020F0%' OR #  Felodipine
@@ -44,6 +44,8 @@ bnf_code LIKE '0206020M0%' OR #  Nimodipine
 bnf_code LIKE '0206020W0%' OR #  Nisoldipine
 bnf_code LIKE '0206020B0%' OR #  Trimetazidine Hydrochloride
 bnf_code LIKE '0206020T0%')    #  Verapamil Hydrochloride 
+AND 
+form_route LIKE '%.oral%'
 )
 
 SELECT "vmp" AS type, id, bnf_code, nm
@@ -60,7 +62,7 @@ ORDER BY type, bnf_code, id'''
 
 ca_blockers_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','ca_blockers_codelist.csv'))
 pd.set_option('display.max_rows', None)
-pd.set_option('display.width', None)
+pd.set_option('display.max_colwidth', None)
 ca_blockers_codelist
 
 
@@ -71,8 +73,10 @@ ca_blockers_codelist
 
 # +
 sql = '''WITH bnf_codes AS (
-  SELECT bnf_code FROM hscic.presentation WHERE 
+    SELECT DISTINCT bnf_code FROM measures.dmd_objs_with_form_route WHERE 
 bnf_code LIKE '0202030S0%'  #  Spironolactone
+AND 
+form_route LIKE '%.oral%'
 )
 
 SELECT "vmp" AS type, id, bnf_code, nm
@@ -97,7 +101,7 @@ spironolactone_codelist
 
 # +
 sql = '''WITH bnf_codes AS (
-  SELECT bnf_code FROM hscic.presentation WHERE 
+    SELECT DISTINCT bnf_code FROM measures.dmd_objs_with_form_route WHERE 
 (bnf_code LIKE '0202010B0%' OR #  Bendroflumethiazide
 bnf_code LIKE '0202010D0%' OR #  Chlorothiazide
 bnf_code LIKE '0202010F0%' OR #  Chlortalidone
@@ -107,6 +111,8 @@ bnf_code LIKE '0202010P0%' OR #  Indapamide
 bnf_code LIKE '0202010V0%' OR #  Metolazone 
 bnf_code LIKE '0202010X0%' OR #  Polythiazide
 bnf_code LIKE '0202010Y0%')    #  Xipamide
+AND 
+form_route LIKE '%.oral%'
 )
 
 SELECT "vmp" AS type, id, bnf_code, nm
@@ -131,10 +137,11 @@ thiazide_codelist
 
 # +
 sql = '''WITH bnf_codes AS (
-  SELECT bnf_code FROM hscic.presentation WHERE 
+    SELECT DISTINCT bnf_code FROM measures.dmd_objs_with_form_route WHERE 
 (bnf_code LIKE '0204000C0%' OR # Acebutolol Hydrochloride
 bnf_code LIKE '0204000E0%' OR #  Atenolol
 bnf_code LIKE '0204000H0%' OR #  Bisoprolol Fumarate
+bnf_code LIKE '0204000AC%' OR #  Bisoprolol Fumarate/ASPIRIN
 bnf_code LIKE '020400080%' OR #  Carvedilol
 bnf_code LIKE '020400060%' OR #  Celiprolol Hydrochloride 
 bnf_code LIKE '0204000I0%' OR #  Labetalol Hydrochloride
@@ -147,7 +154,8 @@ bnf_code LIKE '0204000R0%' OR #  Propranolol Hydrochloride
 bnf_code LIKE '0204000T0%' OR #  Sotalol Hydrochloride
 bnf_code LIKE '0206020B0%' OR #  Trimetazidine Hydrochloride
 bnf_code LIKE '0204000V0%')   # Timolol - oral
-## Bisoprolol Fumarate/Aspirin 0204000AC exclude as we exclude all aspirin users
+AND 
+form_route LIKE '%.oral%'
 )
 
 SELECT "vmp" AS type, id, bnf_code, nm
@@ -172,13 +180,15 @@ beta_blockers_codelist
 
 # +
 sql = '''WITH bnf_codes AS (
-  SELECT bnf_code FROM hscic.presentation WHERE 
+  SELECT DISTINCT bnf_code FROM measures.dmd_objs_with_form_route WHERE 
 (bnf_code LIKE '0205040D0%' OR #  Doxazosin Mesilate
 bnf_code LIKE '0205040I0%' OR #  Indoramin
 bnf_code LIKE '0205040M0%' OR #  Phenoxybenzamine Hydrochloride
 bnf_code LIKE '0205040P0%' OR #  Phentolamine Mesilate
 bnf_code LIKE '0205040S0%' OR #  Prazosin Hydrochloride
 bnf_code LIKE '0205040V0%')    #  Terazosin Hydrochloride 
+AND 
+form_route LIKE '%.oral%'
 )
 
 SELECT "vmp" AS type, id, bnf_code, nm

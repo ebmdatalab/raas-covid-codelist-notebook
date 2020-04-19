@@ -82,13 +82,6 @@ amp,12065411000001100,0205040D0AAAPAP,Doxazosin 3mg/5ml oral suspension (Special
 amp,12065711000001106,0205040D0AAAPAP,Doxazosin 3mg/5ml oral solution (Special Order)
 amp,12067611000001109,0205040D0AAASAS,Doxazosin 6mg/5ml oral suspension (Special Order)
 amp,12068111000001100,0205040D0AAASAS,Doxazosin 6mg/5ml oral solution (Special Order)
-amp,12064211000001100,0205040D0AAATAT,Doxazosin 2.5mg/5ml oral suspension (Special Order)
-amp,12064511000001102,0205040D0AAATAT,Doxazosin 2.5mg/5ml oral solution (Special Order)
-amp,12066011000001100,0205040D0AAAUAU,Doxazosin 500micrograms/5ml oral suspension (Special Order)
-amp,12066311000001102,0205040D0AAAUAU,Doxazosin 500micrograms/5ml oral solution (Special Order)
-amp,12069411000001102,0205040D0AAAVAV,Doxazosin 80mg/5ml oral suspension (Special Order)
-amp,12070011000001109,0205040D0AAAVAV,Doxazosin 80mg/5ml oral solution (Special Order)
-amp,8458411000001104,0205040D0AAAWAW,Doxazosin 16mg/5ml oral suspension (Special Order)
 amp,23391211000001106,0205040D0AAAXAX,Doxazosin 4mg/5ml oral solution (Drug Tariff Special Order)
 amp,8457811000001101,0205040D0AAAYAY,Doxazosin 4mg/5ml oral suspension (Drug Tariff Special Order)
 amp,24434511000001108,0205040D0AAAZAZ,Doxazosin 1mg/5ml oral solution (Drug Tariff Special Order)
@@ -100,8 +93,6 @@ amp,907711000001109,0205040D0BBAAAA,Cardura 1mg tablets (Upjohn UK Ltd)
 amp,41811000001109,0205040D0BBABAB,Cardura 2mg tablets (Upjohn UK Ltd)
 amp,123911000001106,0205040D0BBADAQ,Cardura XL 4mg tablets (Upjohn UK Ltd)
 amp,873411000001109,0205040D0BBAEAR,Cardura XL 8mg tablets (Upjohn UK Ltd)
-amp,904511000001107,0205040D0BCAAAB,Cascor 2mg tablets (Ranbaxy (UK) Ltd)
-amp,179311000001107,0205040D0BCABAC,Cascor 4mg tablets (Ranbaxy (UK) Ltd)
 amp,4857511000001108,0205040D0BDAAAA,Doxadura 1mg tablets (Dexcel-Pharma Ltd)
 amp,4857711000001103,0205040D0BDABAB,Doxadura 2mg tablets (Dexcel-Pharma Ltd)
 amp,4858111000001103,0205040D0BDACAC,Doxadura 4mg tablets (Dexcel-Pharma Ltd)
@@ -119,23 +110,12 @@ amp,18033611000001101,0205040I0AAAAAA,Indoramin 25mg tablets (A A H Pharmaceutic
 amp,18126411000001101,0205040I0AAAAAA,Indoramin 25mg tablets (Phoenix Healthcare Distribution Ltd)
 amp,18255411000001107,0205040I0AAAAAA,Indoramin 25mg tablets (Alliance Healthcare (Distribution) Ltd)
 amp,19706111000001106,0205040I0AAAAAA,Indoramin 25mg tablets (Advanz Pharma)
-amp,3689111000001107,0205040I0BBAAAA,Baratol 25mg tablets (Amdipharm Plc)
 amp,19535711000001107,0205040M0AAACAC,Phenoxybenzamine 10mg capsules (Advanz Pharma)
 amp,20011311000001104,0205040M0AAACAC,Phenoxybenzamine 10mg capsules (A A H Pharmaceuticals Ltd)
 amp,20360311000001106,0205040M0AAACAC,Phenoxybenzamine 10mg capsules (Alliance Healthcare (Distribution) Ltd)
 amp,22451111000001108,0205040M0AAACAC,Phenoxybenzamine 10mg capsules (DE Pharmaceuticals)
-amp,5355311000001101,0205040M0AAADAD,Phenoxybenzamine 100mg/2ml concentrate for solution for infusion ampoules (A A H Pharmaceuticals Ltd)
-amp,5356011000001108,0205040M0AAADAD,Phenoxybenzamine 100mg/2ml concentrate for solution for infusion ampoules (Mercury Pharma Group Ltd)
-amp,5356211000001103,0205040M0AAADAD,Phenoxybenzamine 100mg/2ml concentrate for solution for infusion ampoules (Alliance Healthcare (Distribution) Ltd)
-amp,8647811000001101,0205040M0AAAMAM,Phenoxybenzamine 25mg/5ml oral solution (Special Order)
-amp,8648111000001109,0205040M0AAAMAM,Phenoxybenzamine 25mg/5ml oral suspension (Special Order)
 amp,13020811000001108,0205040M0AAANAN,Phenoxybenzamine 10mg/5ml oral suspension (Special Order)
 amp,13021111000001107,0205040M0AAANAN,Phenoxybenzamine 10mg/5ml oral solution (Special Order)
-amp,13021411000001102,0205040M0AAAPAP,Phenoxybenzamine 5mg/5ml oral suspension (Special Order)
-amp,13021711000001108,0205040M0AAAPAP,Phenoxybenzamine 5mg/5ml oral solution (Special Order)
-amp,3895211000001109,0205040M0BBAAAC,Dibenyline 10mg capsules (Mercury Pharma Group Ltd)
-amp,33685811000001100,0205040P0AAAAAA,Phentolamine 10mg/1ml solution for injection ampoules (Special Order)
-amp,4078811000001109,0205040P0BBAAAA,Rogitine 10mg/1ml solution for injection ampoules (Alliance Pharmaceuticals Ltd)
 amp,89711000001108,0205040S0AAABAB,Prazosin 500microgram tablets (A A H Pharmaceuticals Ltd)
 amp,259311000001106,0205040S0AAABAB,Prazosin 500microgram tablets (The Boots Company Plc)
 amp,898711000001102,0205040S0AAABAB,Prazosin 500microgram tablets (IVAX Pharmaceuticals UK Ltd)
@@ -152,21 +132,12 @@ amp,849411000001107,0205040S0AAAEAE,Prazosin 5mg tablets (IVAX Pharmaceuticals U
 amp,20275711000001104,0205040S0AAAEAE,Prazosin 5mg tablets (Special Order)
 amp,13051711000001109,0205040S0AAAIAI,Prazosin 500micrograms/5ml oral suspension (Special Order)
 amp,13052311000001101,0205040S0AAAIAI,Prazosin 500micrograms/5ml oral solution (Special Order)
-amp,13050211000001108,0205040S0AAAJAJ,Prazosin 250micrograms/5ml oral suspension (Special Order)
-amp,13050811000001109,0205040S0AAAJAJ,Prazosin 250micrograms/5ml oral solution (Special Order)
 amp,8648411000001104,0205040S0AAAKAK,Prazosin 1mg/5ml oral solution (Special Order)
 amp,8649011000001103,0205040S0AAAKAK,Prazosin 1mg/5ml oral suspension (Special Order)
-amp,8648711000001105,0205040S0AAANAN,Prazosin 2mg/5ml oral solution (Special Order)
-amp,8649311000001100,0205040S0AAANAN,Prazosin 2mg/5ml oral suspension (Special Order)
 amp,321311000001100,0205040S0BBAAAB,Hypovase 500microgram tablets (Pfizer Ltd)
 amp,347411000001101,0205040S0BBABAC,Hypovase 1mg tablets (Pfizer Ltd)
 amp,150911000001104,0205040S0BBACAD,Hypovase 2mg tablets (Pfizer Ltd)
-amp,4073411000001101,0205040S0BBAEAA,Hypovase tablets B.D. starter pack (Pfizer Ltd)
 amp,27881811000001101,0205040S0BCABAD,Minipress 2mg tablets (Imported (Australia))
-amp,20280811000001105,0205040S0BCACAE,Minipress 5mg tablets (Imported (Australia))
-amp,934411000001100,0205040S0BEABAC,Alphavase 1 tablets (Ashbourne Pharmaceuticals Ltd)
-amp,570011000001106,0205040S0BEACAD,Alphavase 2 tablets (Ashbourne Pharmaceuticals Ltd)
-amp,74711000001102,0205040S0BEADAE,Alphavase 5 tablets (Ashbourne Pharmaceuticals Ltd)
 amp,3147311000001105,0205040V0AAABAB,Terazosin 2mg tablets (A A H Pharmaceuticals Ltd)
 amp,3148211000001103,0205040V0AAABAB,Terazosin 2mg tablets (Teva UK Ltd)
 amp,3149011000001103,0205040V0AAABAB,Terazosin 2mg tablets (Mylan)
@@ -221,8 +192,6 @@ amp,37823011000001104,0205040V0AAADAD,Terazosin 10mg tablets (DE Pharmaceuticals
 amp,3147611000001100,0205040V0BBABAB,Hytrin 2mg tablets (Advanz Pharma)
 amp,3154311000001103,0205040V0BBACAC,Hytrin 5mg tablets (Advanz Pharma)
 amp,3150911000001107,0205040V0BBADAD,Hytrin 10mg tablets (Advanz Pharma)
-amp,3902911000001102,0205040V0BBAEAA,Hytrin tablets starter pack (Advanz Pharma)
-amp,33630711000001107,0205040V0BCAAAB,Benph 2mg tablets (Mylan)
 amp,33628611000001102,0205040V0BCABAC,Benph 5mg tablets (Mylan)
 vmp,318781001,0205040D0AAAAAA,Doxazosin 1mg tablets
 vmp,318782008,0205040D0AAABAB,Doxazosin 2mg tablets
@@ -240,13 +209,6 @@ vmp,134456001,0205040D0AAAQAQ,Doxazosin 4mg modified-release tablets
 vmp,135921004,0205040D0AAARAR,Doxazosin 8mg modified-release tablets
 vmp,12084311000001106,0205040D0AAASAS,Doxazosin 6mg/5ml oral solution
 vmp,12084411000001104,0205040D0AAASAS,Doxazosin 6mg/5ml oral suspension
-vmp,12083311000001109,0205040D0AAATAT,Doxazosin 2.5mg/5ml oral solution
-vmp,12083411000001102,0205040D0AAATAT,Doxazosin 2.5mg/5ml oral suspension
-vmp,12083911000001105,0205040D0AAAUAU,Doxazosin 500micrograms/5ml oral solution
-vmp,12084011000001108,0205040D0AAAUAU,Doxazosin 500micrograms/5ml oral suspension
-vmp,12084511000001100,0205040D0AAAVAV,Doxazosin 80mg/5ml oral solution
-vmp,12084611000001101,0205040D0AAAVAV,Doxazosin 80mg/5ml oral suspension
-vmp,8483311000001108,0205040D0AAAWAW,Doxazosin 16mg/5ml oral suspension
 vmp,23466611000001105,0205040D0AAAXAX,Doxazosin 4mg/5ml oral solution
 vmp,8483511000001102,0205040D0AAAYAY,Doxazosin 4mg/5ml oral suspension
 vmp,24509711000001103,0205040D0AAAZAZ,Doxazosin 1mg/5ml oral solution
@@ -254,28 +216,16 @@ vmp,8483411000001101,0205040D0AABABA,Doxazosin 1mg/5ml oral suspension
 vmp,421069003,0205040D0AABBBB,Doxazosin 8mg tablets
 vmp,318740009,0205040I0AAAAAA,Indoramin 25mg tablets
 vmp,318745004,0205040M0AAACAC,Phenoxybenzamine 10mg capsules
-vmp,36015311000001107,0205040M0AAADAD,Phenoxybenzamine 100mg/2ml solution for infusion ampoules
-vmp,8671411000001105,0205040M0AAAMAM,Phenoxybenzamine 25mg/5ml oral solution
-vmp,8671511000001109,0205040M0AAAMAM,Phenoxybenzamine 25mg/5ml oral suspension
 vmp,13040411000001109,0205040M0AAANAN,Phenoxybenzamine 10mg/5ml oral solution
 vmp,13040511000001108,0205040M0AAANAN,Phenoxybenzamine 10mg/5ml oral suspension
-vmp,13040611000001107,0205040M0AAAPAP,Phenoxybenzamine 5mg/5ml oral solution
-vmp,13040711000001103,0205040M0AAAPAP,Phenoxybenzamine 5mg/5ml oral suspension
-vmp,36015411000001100,0205040P0AAAAAA,Phentolamine 10mg/1ml solution for injection ampoules
-vmp,4078311000001100,0205040S0AAAAAA,Prazosin 1mg tablets and Prazosin 500microgram tablets
 vmp,318767003,0205040S0AAABAB,Prazosin 500microgram tablets
 vmp,318768008,0205040S0AAACAC,Prazosin 1mg tablets
 vmp,318769000,0205040S0AAADAD,Prazosin 2mg tablets
 vmp,318770004,0205040S0AAAEAE,Prazosin 5mg tablets
 vmp,13078011000001104,0205040S0AAAIAI,Prazosin 500micrograms/5ml oral solution
 vmp,13078111000001103,0205040S0AAAIAI,Prazosin 500micrograms/5ml oral suspension
-vmp,13077811000001106,0205040S0AAAJAJ,Prazosin 250micrograms/5ml oral solution
-vmp,13077911000001101,0205040S0AAAJAJ,Prazosin 250micrograms/5ml oral suspension
 vmp,8671611000001108,0205040S0AAAKAK,Prazosin 1mg/5ml oral solution
 vmp,8671711000001104,0205040S0AAAKAK,Prazosin 1mg/5ml oral suspension
-vmp,8671811000001107,0205040S0AAANAN,Prazosin 2mg/5ml oral solution
-vmp,8671911000001102,0205040S0AAANAN,Prazosin 2mg/5ml oral suspension
-vmp,35915811000001105,0205040V0AAAAAA,Terazosin 2mg tablets and Terazosin 1mg tablets
 vmp,318779003,0205040V0AAABAB,Terazosin 2mg tablets
 vmp,318776005,0205040V0AAACAC,Terazosin 5mg tablets
 vmp,318777001,0205040V0AAADAD,Terazosin 10mg tablets

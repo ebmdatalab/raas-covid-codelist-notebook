@@ -65,8 +65,6 @@ amp,8247711000001106,0206020A0AAADAD,Amlodipine 10mg/5ml oral suspension (Specia
 amp,20428411000001100,0206020A0AAADAD,Amlodipine 10mg/5ml oral solution (Special Order)
 amp,11686811000001104,0206020A0AAAFAF,Amlodipine 50mg/5ml oral suspension (Special Order)
 amp,11687411000001104,0206020A0AAAFAF,Amlodipine 50mg/5ml oral solution (Special Order)
-amp,11685911000001102,0206020A0AAAGAG,Amlodipine 4mg/5ml oral suspension (Special Order)
-amp,11686211000001100,0206020A0AAAGAG,Amlodipine 4mg/5ml oral solution (Special Order)
 amp,8246411000001102,0206020A0AAAJAJ,Amlodipine 2.5mg/5ml oral suspension (Special Order)
 amp,29780711000001109,0206020A0AAALAL,Amlodipine 5mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)
 amp,29781211000001108,0206020A0AAALAL,Amlodipine 5mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd)
@@ -112,11 +110,9 @@ amp,35526611000001102,0206020C0AAAAAA,Diltiazem 60mg modified-release tablets (C
 amp,8443011000001104,0206020C0AAARAR,Diltiazem 60mg/5ml oral solution (Special Order)
 amp,8442611000001101,0206020C0AAAZAZ,Diltiazem 90mg/5ml oral solution (Special Order)
 amp,8443611000001106,0206020C0AAAZAZ,Diltiazem 90mg/5ml oral suspension (Special Order)
-amp,12002311000001100,0206020C0AABBBB,Diltiazem 120mg/5ml oral solution (Special Order)
 amp,12001211000001101,0206020C0AABCBC,Diltiazem 100mg/5ml oral solution (Special Order)
 amp,12004111000001105,0206020C0AABEBE,Diltiazem 50mg/5ml oral solution (Special Order)
 amp,12003311000001105,0206020C0AABFBF,Diltiazem 30mg/5ml oral solution (Special Order)
-amp,12002711000001101,0206020C0AABGBG,Diltiazem 20mg/5ml oral solution (Special Order)
 amp,12001611000001104,0206020C0AABHBH,Diltiazem 10mg/5ml oral solution (Special Order)
 amp,8444511000001105,0206020C0AABIBI,Diltiazem 60mg/5ml oral suspension (Drug Tariff Special Order)
 amp,762011000001102,0206020C0BBAAAA,Tildiem 60mg modified-release tablets (Sanofi)
@@ -126,9 +122,7 @@ amp,893111000001107,0206020C0BBADAE,Tildiem LA 300 capsules (Sanofi)
 amp,261611000001107,0206020C0BBAEAX,Tildiem LA 200 capsules (Sanofi)
 amp,104111000001100,0206020C0BCABAS,Calcicard CR 120mg tablets (Teva UK Ltd)
 amp,219611000001107,0206020C0BCACAC,Calcicard CR 90mg tablets (Teva UK Ltd)
-amp,672311000001103,0206020C0BEAAAA,Angiozem 60mg modified-release tablets (Ashbourne Pharmaceuticals Ltd)
 amp,440711000001104,0206020C0BEABAC,Angiozem CR 90mg tablets (Ashbourne Pharmaceuticals Ltd)
-amp,144811000001101,0206020C0BEACAS,Angiozem CR 120mg tablets (Ashbourne Pharmaceuticals Ltd)
 amp,2885611000001102,0206020C0BFAAAS,Adizem-SR 120mg tablets (Napp Pharmaceuticals Ltd)
 amp,2887011000001102,0206020C0BFACAT,Adizem-SR 90mg capsules (Napp Pharmaceuticals Ltd)
 amp,2887311000001104,0206020C0BFADAU,Adizem-SR 120mg capsules (Napp Pharmaceuticals Ltd)
@@ -165,28 +159,15 @@ amp,648211000001107,0206020C0BNAEBA,Viazem XL 360mg capsules (Thornton & Ross Lt
 amp,353011000001101,0206020C0BPAAAT,Dilcardia SR 90mg capsules (Mylan)
 amp,723811000001107,0206020C0BPABAU,Dilcardia SR 120mg capsules (Mylan)
 amp,937011000001101,0206020C0BPACAJ,Dilcardia SR 60mg capsules (Mylan)
-amp,527711000001108,0206020C0BQAAAA,Optil 60mg modified-release tablets (Opus Pharmaceuticals Ltd)
 amp,540011000001107,0206020C0BRAAAJ,Bi-Carzem SR 60mg capsules (Tillomed Laboratories Ltd)
 amp,764511000001100,0206020C0BRABAT,Bi-Carzem SR 90mg capsules (Tillomed Laboratories Ltd)
 amp,580711000001101,0206020C0BRACAU,Bi-Carzem SR 120mg capsules (Tillomed Laboratories Ltd)
-amp,884811000001103,0206020C0BRADAW,Bi-Carzem XL 240mg capsules (Tillomed Laboratories Ltd)
 amp,158411000001105,0206020C0BRAEAE,Bi-Carzem XL 300mg capsules (Tillomed Laboratories Ltd)
-amp,721811000001108,0206020C0BSAAAJ,Zildil SR 60mg capsules (Healthcare Pharma Ltd)
-amp,200811000001104,0206020C0BSABAT,Zildil 90mg modified-release capsules (Healthcare Pharma Ltd)
-amp,655411000001104,0206020C0BSACAU,Zildil SR 120mg capsules (Healthcare Pharma Ltd)
 amp,865711000001107,0206020C0BTAAAA,Retalzem 60 modified-release tablets (Kent Pharmaceuticals Ltd)
-amp,591411000001102,0206020C0BUAAAJ,Horizem SR 60mg capsules (Horizon lifecare)
-amp,157511000001105,0206020C0BUABAT,Horizem SR 90mg capsules (Horizon lifecare)
-amp,758511000001104,0206020C0BUACAU,Horizem SR 120mg capsules (Horizon lifecare)
 amp,924711000001109,0206020C0BVAAAV,Zemret 180 XL capsules (Tillomed Laboratories Ltd)
 amp,823511000001107,0206020C0BVABAW,Zemret 240 XL capsules (Tillomed Laboratories Ltd)
 amp,640311000001101,0206020C0BVACAE,Zemret 300 XL capsules (Tillomed Laboratories Ltd)
-amp,116711000001106,0206020C0BWAAAU,Disogram SR 120mg capsules (Ranbaxy (UK) Ltd)
-amp,713411000001103,0206020C0BWABAV,Disogram SR 180mg capsules (Ranbaxy (UK) Ltd)
-amp,108711000001107,0206020C0BWACAW,Disogram SR 240mg capsules (Ranbaxy (UK) Ltd)
-amp,34711000001104,0206020C0BWADAE,Disogram SR 300mg capsules (Ranbaxy (UK) Ltd)
 amp,469811000001106,0206020C0BWAEAJ,Disogram SR 60mg capsules (Ranbaxy (UK) Ltd)
-amp,256611000001109,0206020C0BWAFAT,Disogram SR 90mg capsules (Ranbaxy (UK) Ltd)
 amp,8885711000001100,0206020C0BYAAAJ,Kenzem SR 60mg capsules (Kent Pharmaceuticals Ltd)
 amp,8886211000001101,0206020C0BYABAT,Kenzem SR 90mg capsules (Kent Pharmaceuticals Ltd)
 amp,8886511000001103,0206020C0BYACAU,Kenzem SR 120mg capsules (Kent Pharmaceuticals Ltd)
@@ -213,8 +194,6 @@ amp,4973011000001100,0206020F0BFABAC,Felogen XL 10mg tablets (Mylan)
 amp,5008511000001107,0206020F0BGAAAB,Folpik XL 5mg tablets (Teva UK Ltd)
 amp,5008911000001100,0206020F0BGABAC,Folpik XL 10mg tablets (Teva UK Ltd)
 amp,13565311000001101,0206020F0BGACAD,Folpik XL 2.5mg tablets (Teva UK Ltd)
-amp,10284411000001103,0206020F0BHAAAB,Keloc SR 5mg tablets (Teva UK Ltd)
-amp,10284611000001100,0206020F0BHABAC,Keloc SR 10mg tablets (Teva UK Ltd)
 amp,5638311000001102,0206020F0BIAAAB,Vascalpha 5mg modified-release tablets (Accord Healthcare Ltd)
 amp,5638811000001106,0206020F0BIABAC,Vascalpha 10mg modified-release tablets (Accord Healthcare Ltd)
 amp,18250911000001108,0206020F0BIACAB,Vascalpha 5mg modified-release tablets (Almus Pharmaceuticals Ltd)
@@ -258,7 +237,6 @@ amp,32414511000001106,0206020K0AAABAB,Lacidipine 4mg tablets (Kent Pharmaceutica
 amp,34880911000001108,0206020K0AAABAB,Lacidipine 4mg tablets (Zentiva)
 amp,36943511000001104,0206020K0AAABAB,Lacidipine 4mg tablets (Mylan)
 amp,37094311000001105,0206020K0AAABAB,Lacidipine 4mg tablets (Mawdsley-Brooks & Company Ltd)
-amp,32859511000001106,0206020K0AAADAD,Lacidipine 2mg/5ml oral suspension (Special Order)
 amp,910911000001108,0206020K0BBAAAA,Motens 2mg tablets (GlaxoSmithKline UK Ltd)
 amp,333011000001100,0206020K0BBABAB,Motens 4mg tablets (GlaxoSmithKline UK Ltd)
 amp,28882211000001100,0206020K0BDAAAB,Molap 4mg tablets (Rivopharm (UK) Ltd)
@@ -296,8 +274,6 @@ amp,30219411000001100,0206020L0AAABAB,Lercanidipine 20mg tablets (Mawdsley-Brook
 amp,36818111000001101,0206020L0AAABAB,Lercanidipine 20mg tablets (Torrent Pharma (UK) Ltd)
 amp,20011000001105,0206020L0BBAAAA,Zanidip 10mg tablets (Recordati Pharmaceuticals Ltd)
 amp,10198711000001102,0206020L0BBABAB,Zanidip 20mg tablets (Recordati Pharmaceuticals Ltd)
-amp,12820311000001107,0206020M0AAACAC,Nimodipine 30mg/5ml oral suspension (Special Order)
-amp,4387211000001100,0206020M0BBAAAA,Nimotop 0.02% solution for infusion 50ml vials (Bayer Plc)
 amp,3879211000001104,0206020M0BBABAB,Nimotop 30mg tablets (Bayer Plc)
 amp,373211000001108,0206020Q0AAAAAA,Nicardipine 20mg capsules (Kent Pharmaceuticals Ltd)
 amp,403011000001104,0206020Q0AAAAAA,Nicardipine 20mg capsules (A A H Pharmaceuticals Ltd)
@@ -305,6 +281,7 @@ amp,513111000001107,0206020Q0AAAAAA,Nicardipine 20mg capsules (Alliance Healthca
 amp,854411000001105,0206020Q0AAAAAA,Nicardipine 20mg capsules (Mylan)
 amp,3656311000001105,0206020Q0AAAAAA,Nicardipine 20mg capsules (Teva UK Ltd)
 amp,13760311000001107,0206020Q0AAAAAA,Nicardipine 20mg capsules (Tillomed Laboratories Ltd)
+amp,15237211000001108,0206020Q0AAAAAA,Nicardipine 20mg capsules (Sigma Pharmaceuticals Plc)
 amp,17946111000001101,0206020Q0AAAAAA,Nicardipine 20mg capsules (Phoenix Healthcare Distribution Ltd)
 amp,28211000001102,0206020Q0AAABAB,Nicardipine 30mg capsules (Alliance Healthcare (Distribution) Ltd)
 amp,170911000001102,0206020Q0AAABAB,Nicardipine 30mg capsules (Kent Pharmaceuticals Ltd)
@@ -314,8 +291,6 @@ amp,3656911000001106,0206020Q0AAABAB,Nicardipine 30mg capsules (Teva UK Ltd)
 amp,13760511000001101,0206020Q0AAABAB,Nicardipine 30mg capsules (Tillomed Laboratories Ltd)
 amp,15237411000001107,0206020Q0AAABAB,Nicardipine 30mg capsules (Sigma Pharmaceuticals Plc)
 amp,17946311000001104,0206020Q0AAABAB,Nicardipine 30mg capsules (Phoenix Healthcare Distribution Ltd)
-amp,12277211000001107,0206020Q0AAAFAF,Nicardipine 20mg/5ml oral solution (Special Order)
-amp,12278911000001102,0206020Q0AAAFAF,Nicardipine 20mg/5ml oral suspension (Special Order)
 amp,344811000001108,0206020Q0BBAAAA,Cardene 20mg capsules (Astellas Pharma Ltd)
 amp,291111000001102,0206020Q0BBABAB,Cardene 30mg capsules (Astellas Pharma Ltd)
 amp,540311000001105,0206020Q0BBACAC,Cardene SR 30mg capsules (Astellas Pharma Ltd)
@@ -347,16 +322,10 @@ amp,32425911000001106,0206020R0AAAEAE,Nifedipine 10mg modified-release tablets (
 amp,32426111000001102,0206020R0AAARAR,Nifedipine 20mg modified-release tablets (Kent Pharmaceuticals Ltd)
 amp,15878411000001101,0206020R0AAASAS,Nifedipine 20mg/ml oral drops (Special Order)
 amp,8639811000001105,0206020R0AAAUAU,Nifedipine 100mg/5ml oral suspension (Special Order)
-amp,12818811000001109,0206020R0AABCBC,Nifedipine 25mg/5ml oral suspension (Special Order)
 amp,12819411000001104,0206020R0AABDBD,Nifedipine 30mg/5ml oral suspension (Special Order)
 amp,8641711000001100,0206020R0AABGBG,Nifedipine 20mg/5ml oral suspension (Special Order)
-amp,12281311000001104,0206020R0AABHBH,Nifedipine 1mg/5ml oral suspension (Special Order)
-amp,12819711000001105,0206020R0AABJBJ,Nifedipine 4mg/5ml oral suspension (Special Order)
 amp,12284811000001105,0206020R0AABKBK,Nifedipine 2.5mg/5ml oral suspension (Special Order)
 amp,12819111000001109,0206020R0AABLBL,Nifedipine 2mg/5ml oral suspension (Special Order)
-amp,12820011000001109,0206020R0AABMBM,Nifedipine 7.5mg/5ml oral suspension (Special Order)
-amp,12284511000001107,0206020R0AABNBN,Nifedipine 2.2mg/5ml oral suspension (Special Order)
-amp,8641111000001101,0206020R0AABPBP,Nifedipine 60mg/5ml oral suspension (Special Order)
 amp,8640411000001102,0206020R0AABQBQ,Nifedipine 10mg/5ml oral suspension (Drug Tariff Special Order)
 amp,8642511000001102,0206020R0AABRBR,Nifedipine 5mg/5ml oral suspension (Drug Tariff Special Order)
 amp,27111000001107,0206020R0BBAAAA,Adalat 5mg capsules (Bayer Plc)
@@ -370,14 +339,11 @@ amp,389611000001101,0206020R0BGAAAH,Coracten SR 20mg capsules (UCB Pharma Ltd)
 amp,126411000001108,0206020R0BGABAM,Coracten SR 10mg capsules (UCB Pharma Ltd)
 amp,162811000001100,0206020R0BGACBE,Coracten XL 30mg capsules (UCB Pharma Ltd)
 amp,3381511000001105,0206020R0BGADBF,Coracten XL 60mg capsules (UCB Pharma Ltd)
-amp,811311000001107,0206020R0BHABAB,Angiopine 10 capsules (Ashbourne Pharmaceuticals Ltd)
-amp,865011000001105,0206020R0BHACAR,Angiopine MR 20mg tablets (Ashbourne Pharmaceuticals Ltd)
 amp,568911000001104,0206020R0BHAEAE,Angiopine MR 10mg tablets (Ashbourne Pharmaceuticals Ltd)
 amp,67711000001102,0206020R0BKACAR,Kentipine MR 20 tablets (Kent Pharmaceuticals Ltd)
 amp,712411000001107,0206020R0BKADAE,Kentipine MR 10 tablets (Kent Pharmaceuticals Ltd)
 amp,905711000001103,0206020R0BLAAAR,Cardilate MR 20mg tablets (IVAX Pharmaceuticals UK Ltd)
 amp,25911000001100,0206020R0BLABAE,Cardilate MR 10mg tablets (Teva UK Ltd)
-amp,677411000001108,0206020R0BQAAAR,Hypolar Retard 20 tablets (Sandoz Ltd)
 amp,2881811000001101,0206020R0BQABAN,Hypolar XL 30 tablets (Sandoz Ltd)
 amp,4878111000001101,0206020R0BQACAE,Hypolar Retard 10mg tablets (Sandoz Ltd)
 amp,74111000001103,0206020R0BRAAAR,Adipine MR 20 tablets (Chiesi Ltd)
@@ -387,9 +353,7 @@ amp,9049911000001105,0206020R0BRADAP,Adipine XL 60mg tablets (Chiesi Ltd)
 amp,9072711000001103,0206020R0BTAAAS,Nifedipin-ratiopharm 20mg/ml oral drops (Imported (Germany))
 amp,10189111000001106,0206020R0BUACAN,Nimodrel XL 30mg tablets (Zurich Pharmaceuticals)
 amp,10189311000001108,0206020R0BUADAP,Nimodrel XL 60mg tablets (Zurich Pharmaceuticals)
-amp,843411000001105,0206020R0BVAAAR,Slofedipine 20mg tablets (Sterwin Medicines)
 amp,2882011000001104,0206020R0BVABAN,Slofedipine XL 30mg tablets (Zentiva)
-amp,630411000001107,0206020R0BVACAP,Slofedipine XL 60 tablets (Zentiva)
 amp,413111000001101,0206020R0BWAAAE,Tensipine MR 10 tablets (Genus Pharmaceuticals Ltd)
 amp,385611000001104,0206020R0BWABAR,Tensipine MR 20 tablets (Genus Pharmaceuticals Ltd)
 amp,188711000001108,0206020R0BXAAAX,Fortipine LA 40 tablets (Advanz Pharma)
@@ -398,7 +362,6 @@ amp,619111000001101,0206020R0CBABAR,Nifedipress MR 20 tablets (Dexcel-Pharma Ltd
 amp,7856211000001104,0206020R0CBACAE,Nifedipress MR 10 tablets (Teva UK Ltd)
 amp,7855311000001102,0206020R0CBADAR,Nifedipress MR 20 tablets (Actavis UK Ltd)
 amp,7856611000001102,0206020R0CBAEAR,Nifedipress MR 20 tablets (Teva UK Ltd)
-amp,309611000001102,0206020R0CDAAAR,Coroday MR 20mg tablets (Mylan)
 amp,280811000001100,0206020R0CEAAAR,Nifopress Retard 20mg tablets (Advanz Pharma)
 amp,9485111000001105,0206020R0CEABAR,Nifopress MR 20mg tablets (Teva UK Ltd)
 amp,693311000001101,0206020R0CFAAAR,Valni 20 Retard tablets (Tillomed Laboratories Ltd)
@@ -412,12 +375,6 @@ amp,17666011000001106,0206020R0CIAAAN,Adanif XL 30mg tablets (Advanz Pharma)
 amp,17666211000001101,0206020R0CIABAP,Adanif XL 60mg tablets (Advanz Pharma)
 amp,34685211000001104,0206020R0CJAAAN,Nidef 30mg modified-release tablets (Morningside Healthcare Ltd)
 amp,34685811000001103,0206020R0CJABAP,Nidef 60mg modified-release tablets (Morningside Healthcare Ltd)
-amp,12946011000001100,0206020T0AAA1A1,Verapamil 80mg/5ml oral suspension (Special Order)
-amp,12946311000001102,0206020T0AAA1A1,Verapamil 80mg/5ml oral solution (Special Order)
-amp,12941811000001101,0206020T0AAA2A2,Verapamil 20mg/5ml oral suspension (Special Order)
-amp,12942111000001103,0206020T0AAA2A2,Verapamil 20mg/5ml oral solution (Special Order)
-amp,12933411000001103,0206020T0AAA3A3,Verapamil 10mg/5ml oral suspension (Special Order)
-amp,12933711000001109,0206020T0AAA3A3,Verapamil 10mg/5ml oral solution (Special Order)
 amp,81311000001105,0206020T0AAACAC,Verapamil 40mg tablets (Kent Pharmaceuticals Ltd)
 amp,90311000001104,0206020T0AAACAC,Verapamil 40mg tablets (Mylan)
 amp,232211000001107,0206020T0AAACAC,Verapamil 40mg tablets (Alliance Healthcare (Distribution) Ltd)
@@ -480,27 +437,12 @@ amp,33139011000001101,0206020T0AAAVAV,Verapamil 40mg/5ml oral solution sugar fre
 amp,33560811000001102,0206020T0AAAVAV,Verapamil 40mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)
 amp,12944211000001100,0206020T0AAAZAZ,Verapamil 40mg/5ml oral suspension (Special Order)
 amp,12944511000001102,0206020T0AAAZAZ,Verapamil 40mg/5ml oral solution (Special Order)
-amp,12941211000001102,0206020T0AABABA,Verapamil 120mg/5ml oral suspension (Special Order)
-amp,12941511000001104,0206020T0AABABA,Verapamil 120mg/5ml oral solution (Special Order)
-amp,12944811000001104,0206020T0AABDBD,Verapamil 45mg/5ml oral suspension (Special Order)
-amp,12945111000001105,0206020T0AABDBD,Verapamil 45mg/5ml oral solution (Special Order)
-amp,12943611000001101,0206020T0AABEBE,Verapamil 30mg/5ml oral suspension (Special Order)
-amp,12943911000001107,0206020T0AABEBE,Verapamil 30mg/5ml oral solution (Special Order)
-amp,12943011000001108,0206020T0AABFBF,Verapamil 250mg/5ml oral suspension (Special Order)
-amp,12943311000001106,0206020T0AABFBF,Verapamil 250mg/5ml oral solution (Special Order)
-amp,12945411000001100,0206020T0AABGBG,Verapamil 50mg/5ml oral suspension (Special Order)
-amp,12945711000001106,0206020T0AABGBG,Verapamil 50mg/5ml oral solution (Special Order)
-amp,12942411000001108,0206020T0AABHBH,Verapamil 240mg/5ml oral suspension (Special Order)
-amp,12942711000001102,0206020T0AABHBH,Verapamil 240mg/5ml oral solution (Special Order)
 amp,557111000001106,0206020T0BCAAAC,Cordilox 40mg tablets (IVAX Pharmaceuticals UK Ltd)
 amp,258911000001104,0206020T0BCABAD,Cordilox 80mg tablets (IVAX Pharmaceuticals UK Ltd)
-amp,867011000001103,0206020T0BCACAF,Cordilox 120mg tablets (IVAX Pharmaceuticals UK Ltd)
-amp,783511000001101,0206020T0BCADAG,Cordilox 160mg tablets (IVAX Pharmaceuticals UK Ltd)
 amp,740811000001102,0206020T0BCAFAH,Cordilox MR 240mg tablets (Teva UK Ltd)
 amp,140411000001109,0206020T0BDACAF,Securon 120mg tablets (Abbott Laboratories Ltd)
 amp,540111000001108,0206020T0BDAEAH,Securon SR 240mg tablets (Mylan)
 amp,846611000001102,0206020T0BDAGAU,Half Securon SR 120mg tablets (Mylan)
-amp,4399811000001108,0206020T0BDAIAA,Securon IV 5mg/2ml solution for injection ampoules (Mylan)
 amp,219711000001103,0206020T0BFAAAI,Univer 120mg modified-release capsules (Teva UK Ltd)
 amp,391811000001102,0206020T0BFABAJ,Univer 180mg modified-release capsules (Teva UK Ltd)
 amp,65411000001102,0206020T0BFACAK,Univer 240mg modified-release capsules (Teva UK Ltd)
@@ -511,17 +453,11 @@ amp,10910611000001109,0206020T0BHADAH,Verapress MR 240mg tablets (Teva UK Ltd)
 amp,782111000001104,0206020T0BIAAAH,Ethimil MR 240mg tablets (Genus Pharmaceuticals Ltd)
 amp,675611000001104,0206020T0BJAAAH,Vertab SR 240 tablets (Chiesi Ltd)
 amp,4129511000001107,0206020T0BKAAAV,Zolvera 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd)
-amp,3634111000001100,0206020T0BLAAAH,Ranvera MR 240mg tablets (Ranbaxy (UK) Ltd)
 amp,7418511000001104,0206020T0BMAAAU,Vera-Til SR 120mg tablets (Tillomed Laboratories Ltd)
 amp,7418711000001109,0206020T0BMABAH,Vera-Til SR 240mg tablets (Tillomed Laboratories Ltd)
 amp,16438111000001103,0206020T0BMACAH,Vera-Til SR 240mg tablets (Actavis UK Ltd)
 amp,16449211000001100,0206020T0BMADAU,Vera-Til SR 120mg tablets (Actavis UK Ltd)
 amp,18175611000001109,0206020W0AAAAAA,Nisoldipine 10mg modified-release tablets (Special Order)
-amp,18175911000001103,0206020W0AAABAB,Nisoldipine 20mg modified-release tablets (Special Order)
-amp,18176211000001101,0206020W0AAACAC,Nisoldipine 30mg modified-release tablets (Special Order)
-amp,3877011000001100,0206020W0BBAAAA,Syscor MR 10 tablets (Forest Laboratories UK Ltd)
-amp,4070011000001100,0206020W0BBABAB,Syscor MR 20 tablets (Forest Laboratories UK Ltd)
-amp,4069211000001108,0206020W0BBACAC,Syscor MR 30 tablets (Forest Laboratories UK Ltd)
 vmp,319283006,0206020A0AAAAAA,Amlodipine 5mg tablets
 vmp,319284000,0206020A0AAABAB,Amlodipine 10mg tablets
 vmp,8278311000001107,0206020A0AAACAC,Amlodipine 5mg/5ml oral suspension
@@ -530,8 +466,6 @@ vmp,8278111000001105,0206020A0AAADAD,Amlodipine 10mg/5ml oral suspension
 vmp,20478011000001105,0206020A0AAADAD,Amlodipine 10mg/5ml oral solution
 vmp,11712111000001101,0206020A0AAAFAF,Amlodipine 50mg/5ml oral solution
 vmp,11712211000001107,0206020A0AAAFAF,Amlodipine 50mg/5ml oral suspension
-vmp,11711911000001109,0206020A0AAAGAG,Amlodipine 4mg/5ml oral solution
-vmp,11712011000001102,0206020A0AAAGAG,Amlodipine 4mg/5ml oral suspension
 vmp,8278211000001104,0206020A0AAAJAJ,Amlodipine 2.5mg/5ml oral suspension
 vmp,29826311000001101,0206020A0AAALAL,Amlodipine 5mg/5ml oral solution sugar free
 vmp,15773411000001109,0206020A0AAAMAM,Amlodipine 1.5mg/5ml oral solution
@@ -556,11 +490,9 @@ vmp,319187001,0206020C0AAAXAX,Diltiazem 200mg modified-release capsules
 vmp,8456711000001106,0206020C0AAAZAZ,Diltiazem 90mg/5ml oral suspension
 vmp,8456811000001103,0206020C0AAAZAZ,Diltiazem 90mg/5ml oral solution
 vmp,319198000,0206020C0AABABA,Diltiazem 360mg modified-release capsules
-vmp,12027311000001107,0206020C0AABBBB,Diltiazem 120mg/5ml oral solution
 vmp,12027011000001109,0206020C0AABCBC,Diltiazem 100mg/5ml oral solution
 vmp,12027911000001108,0206020C0AABEBE,Diltiazem 50mg/5ml oral solution
 vmp,12027811000001103,0206020C0AABFBF,Diltiazem 30mg/5ml oral solution
-vmp,12027611000001102,0206020C0AABGBG,Diltiazem 20mg/5ml oral solution
 vmp,12027111000001105,0206020C0AABHBH,Diltiazem 10mg/5ml oral solution
 vmp,8456911000001108,0206020C0AABIBI,Diltiazem 60mg/5ml oral suspension
 vmp,319287007,0206020F0AAABAB,Felodipine 5mg modified-release tablets
@@ -572,18 +504,13 @@ vmp,34447411000001102,0206020F0AAAIAI,Felodipine 2.5mg/5ml oral suspension
 vmp,319280009,0206020I0AAAAAA,Isradipine 2.5mg tablets
 vmp,319300008,0206020K0AAAAAA,Lacidipine 2mg tablets
 vmp,319301007,0206020K0AAABAB,Lacidipine 4mg tablets
-vmp,32877511000001101,0206020K0AAADAD,Lacidipine 2mg/5ml oral suspension
 vmp,319316005,0206020L0AAAAAA,Lercanidipine 10mg tablets
 vmp,10225911000001102,0206020L0AAABAB,Lercanidipine 20mg tablets
-vmp,36031711000001104,0206020M0AAAAAA,Nimodipine 10mg/50ml solution for infusion vials
 vmp,323273000,0206020M0AAABAB,Nimodipine 30mg tablets
-vmp,12865111000001106,0206020M0AAACAC,Nimodipine 30mg/5ml oral suspension
 vmp,319217004,0206020Q0AAAAAA,Nicardipine 20mg capsules
 vmp,319218009,0206020Q0AAABAB,Nicardipine 30mg capsules
 vmp,319216008,0206020Q0AAACAC,Nicardipine 30mg modified-release capsules
 vmp,319215007,0206020Q0AAADAD,Nicardipine 45mg modified-release capsules
-vmp,12302611000001109,0206020Q0AAAFAF,Nicardipine 20mg/5ml oral solution
-vmp,12302711000001100,0206020Q0AAAFAF,Nicardipine 20mg/5ml oral suspension
 vmp,319222004,0206020R0AAAAAA,Nifedipine 5mg capsules
 vmp,319223009,0206020R0AAABAB,Nifedipine 10mg capsules
 vmp,319274001,0206020R0AAAEAE,Nifedipine 10mg modified-release tablets
@@ -595,27 +522,14 @@ vmp,319277008,0206020R0AAARAR,Nifedipine 20mg modified-release tablets
 vmp,9096811000001100,0206020R0AAASAS,Nifedipine 20mg/ml oral drops
 vmp,8670011000001105,0206020R0AAAUAU,Nifedipine 100mg/5ml oral suspension
 vmp,319233001,0206020R0AAAXAX,Nifedipine 40mg modified-release tablets
-vmp,12862311000001102,0206020R0AABCBC,Nifedipine 25mg/5ml oral suspension
 vmp,12862511000001108,0206020R0AABDBD,Nifedipine 30mg/5ml oral suspension
 vmp,319247002,0206020R0AABEBE,Nifedipine 30mg modified-release capsules
 vmp,319248007,0206020R0AABFBF,Nifedipine 60mg modified-release capsules
 vmp,8670211000001100,0206020R0AABGBG,Nifedipine 20mg/5ml oral suspension
-vmp,12303011000001106,0206020R0AABHBH,Nifedipine 1mg/5ml oral suspension
-vmp,12862611000001107,0206020R0AABJBJ,Nifedipine 4mg/5ml oral suspension
 vmp,12303311000001109,0206020R0AABKBK,Nifedipine 2.5mg/5ml oral suspension
 vmp,12862411000001109,0206020R0AABLBL,Nifedipine 2mg/5ml oral suspension
-vmp,12862711000001103,0206020R0AABMBM,Nifedipine 7.5mg/5ml oral suspension
-vmp,12303111000001107,0206020R0AABNBN,Nifedipine 2.2mg/5ml oral suspension
-vmp,8670411000001101,0206020R0AABPBP,Nifedipine 60mg/5ml oral suspension
 vmp,8670111000001106,0206020R0AABQBQ,Nifedipine 10mg/5ml oral suspension
 vmp,8670311000001108,0206020R0AABRBR,Nifedipine 5mg/5ml oral suspension
-vmp,13015911000001101,0206020T0AAA1A1,Verapamil 80mg/5ml oral solution
-vmp,13016011000001109,0206020T0AAA1A1,Verapamil 80mg/5ml oral suspension
-vmp,13014511000001107,0206020T0AAA2A2,Verapamil 20mg/5ml oral solution
-vmp,13014611000001106,0206020T0AAA2A2,Verapamil 20mg/5ml oral suspension
-vmp,12940911000001104,0206020T0AAA3A3,Verapamil 10mg/5ml oral solution
-vmp,12941011000001107,0206020T0AAA3A3,Verapamil 10mg/5ml oral suspension
-vmp,36149611000001100,0206020T0AAAAAA,Verapamil 5mg/2ml solution for injection ampoules
 vmp,318204006,0206020T0AAACAC,Verapamil 40mg tablets
 vmp,318205007,0206020T0AAADAD,Verapamil 80mg tablets
 vmp,318206008,0206020T0AAAFAF,Verapamil 120mg tablets
@@ -628,18 +542,4 @@ vmp,35367911000001103,0206020T0AAAUAU,Verapamil 120mg modified-release tablets
 vmp,4139411000001106,0206020T0AAAVAV,Verapamil 40mg/5ml oral solution sugar free
 vmp,13015311000001102,0206020T0AAAZAZ,Verapamil 40mg/5ml oral solution
 vmp,13015411000001109,0206020T0AAAZAZ,Verapamil 40mg/5ml oral suspension
-vmp,13014311000001101,0206020T0AABABA,Verapamil 120mg/5ml oral solution
-vmp,13014411000001108,0206020T0AABABA,Verapamil 120mg/5ml oral suspension
-vmp,13015511000001108,0206020T0AABDBD,Verapamil 45mg/5ml oral solution
-vmp,13015611000001107,0206020T0AABDBD,Verapamil 45mg/5ml oral suspension
-vmp,13015111000001104,0206020T0AABEBE,Verapamil 30mg/5ml oral solution
-vmp,13015211000001105,0206020T0AABEBE,Verapamil 30mg/5ml oral suspension
-vmp,13014911000001100,0206020T0AABFBF,Verapamil 250mg/5ml oral solution
-vmp,13015011000001100,0206020T0AABFBF,Verapamil 250mg/5ml oral suspension
-vmp,13015711000001103,0206020T0AABGBG,Verapamil 50mg/5ml oral solution
-vmp,13015811000001106,0206020T0AABGBG,Verapamil 50mg/5ml oral suspension
-vmp,13014711000001102,0206020T0AABHBH,Verapamil 240mg/5ml oral solution
-vmp,13014811000001105,0206020T0AABHBH,Verapamil 240mg/5ml oral suspension
 vmp,36031811000001107,0206020W0AAAAAA,Nisoldipine 10mg modified-release tablets
-vmp,36031911000001102,0206020W0AAABAB,Nisoldipine 20mg modified-release tablets
-vmp,36032011000001109,0206020W0AAACAC,Nisoldipine 30mg modified-release tablets
