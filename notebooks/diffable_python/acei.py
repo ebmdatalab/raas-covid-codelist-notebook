@@ -52,5 +52,17 @@ ORDER BY type, bnf_code, id'''
 
 acei_codelist = bq.cached_read(sql, csv_path=os.path.join('..','data','acei_codelist.csv'))
 pd.set_option('display.max_rows', None)
-pd.set_option('display.width', None)
+pd.set_option('display.max_colwidth', None)
 acei_codelist
+# -
+
+# ## Lisinopril
+# In the study we are possibly going to ook at indivodual agents which may have a effect. Below sets out a codelist for lisinopril
+
+lisinopril_codelist = acei_codelist.loc[acei_codelist["bnf_code"].str.contains('0205051L0')]
+pd.set_option('display.max_rows', None)
+pd.set_option('display.max_colwidth', None)
+lisinopril_codelist
+
+
+
