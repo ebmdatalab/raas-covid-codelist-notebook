@@ -62,7 +62,6 @@ acei_codelist
 lisinopril_codelist = acei_codelist.loc[acei_codelist["bnf_code"].str.contains('0205051L0')]
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', None)
+lisinopril_codelist.to_csv(os.path.join('..','data','lisinopril_codelist.csv')) #export to csv here
 lisinopril_codelist
-
-
 
